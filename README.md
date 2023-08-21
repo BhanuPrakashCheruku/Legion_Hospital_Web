@@ -6,15 +6,16 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://kind-glacier-0978db900.3.azurestaticapps.net/
+**Project Link** - https://icy-island-05fc9f300.3.azurestaticapps.net
 
 
-**Project demo video link** - 
+**Project demo video link** - https://youtu.be/Z2qB7p9mbYg/
 
 ## Azure technologies used for Project
 
 - Static web apps
 - Azure Health Bot
+- Health Data Services
 
 ## Features and Functionalities 😃
 
@@ -50,7 +51,7 @@ This is a web based application developed for health related based website in in
 
 ### healthBot -
 
-![HelathBot](https://github.com/BhanuPrakashCheruku/Legion_Hospital_Web/assets/127952255/9b3098d2-a168-44b6-8d5b-96a220305b23)
+![health](https://github.com/BhanuPrakashCheruku/Legion_Hospital_Web/assets/127952255/235dfcd0-d5dd-4e98-9236-2be75f2c975c)
 
 
 ## Tech Stack 💻
