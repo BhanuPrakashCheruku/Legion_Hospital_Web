@@ -17,7 +17,7 @@ This is a web based application developed for health related based website in in
 - Azure Health Bot
 - Health Data Services
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has visual innovative effects.
