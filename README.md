@@ -51,7 +51,7 @@ This is a web based application developed for health related based website in in
 
 ### healthBot -
 
-![health](https://github.com/BhanuPrakashCheruku/Legion_Hospital_Web/assets/127952255/235dfcd0-d5dd-4e98-9236-2be75f2c975c)
+![healthbot](https://github.com/BhanuPrakashCheruku/Legion_Hospital_Web/assets/127952255/cba8404f-f07d-4c47-b695-6416b40f15eb)
 
 
 ## Tech Stack 💻
